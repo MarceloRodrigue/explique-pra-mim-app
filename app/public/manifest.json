@@ -1,11 +1,12 @@
 {
-  "name": "Explain Like I'm 10",
-  "short_name": "Explain10",
-  "description": "Simple explanations for anything",
+  "name": "Explique Pra Mim",
+  "short_name": "Explique",
+  "description": "Explicações simples em português para qualquer assunto",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
+  "lang": "pt-BR",
   "icons": [
     {
       "src": "/icon-192.png",
