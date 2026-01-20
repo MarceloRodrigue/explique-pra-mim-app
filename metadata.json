@@ -1,0 +1,8 @@
+
+{
+  "name": "Explique pra mim",
+  "description": "Transforme textos complexos em explicações claras, simples e acessíveis. Ideal para entender contratos, termos médicos e documentos técnicos sem complicações.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
