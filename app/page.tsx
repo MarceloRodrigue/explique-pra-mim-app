@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main style={{ padding: 40 }}>
-      <h1>Explique pra mim</h1>
-      <p>Seu app está rodando corretamente 🚀</p>
+    <main style={{ padding: 20 }}>
+      <h1>Explique Pra Mim</h1>
+      <p>Digite algo e eu explico de forma simples.</p>
     </main>
-  );
+  )
 }
