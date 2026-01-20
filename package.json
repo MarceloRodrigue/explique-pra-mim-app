@@ -1,7 +1,6 @@
 {
-  "name": "explique-pra-mim",
+  "name": "explique-pra-mim-app",
   "private": true,
-  "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
